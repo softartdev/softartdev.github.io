@@ -21,6 +21,8 @@ url: "https://softartdev.github.io/" # the base hostname & protocol for your sit
 github_username:  softartdev
 linkedin_username: artur-babichev-605055144
 
+google_analytics: UA-165346753-1
+
 header_pages:
   - portfolio.md
   - about.md
