@@ -1,0 +1,45 @@
+Artur Babichev
+Mobile Developer
+PROFILE
+With over 6 years of experience in developing Android applications primarily using Kotlin, I am skilled in creating mobile applications from scratch and diving into existing codebases.
+
+I have a strong background in writing and publishing libraries and setting up CI/CD processes.
+
+Currently, I specialize in Kotlin Multiplatform development.
+
+SKILLS
+Languages: Kotlin, Java
+
+Technologies/Tools: Kotlin Multiplatform, Compose Multiplatform, Android SDK, Ktor/Retrofit, SQLDelight/Room, Koin/Dagger, JUnit/Mockito/Espresso, LeakCanary, Crashlytics, Gradle, Git, Fastlane, Docker, Github Action, Gitlab CI
+
+EXPERIENCE
+Kotlin Multiplatform Developer, Pet-project; Ekaterinburg — Apr 2017 - Present
+Creating a pet project to enhance my skills.
+
+Technologies/Tools: Kotlin Multiplatform, Compose, Coroutines, SQLDelight, Cipher, Koin, LeakCanary, JUnit, Espresso, Fastlane, Github Action.
+
+Android Developer, Haiku.dev; St. Petersburg, Remote — Mar 2022 - Dec 2022
+Project: Edutoria.ru - educational marketplace, team of 6.
+
+Technologies/Tools: Kotlin Multiplatform, Compose, Coroutines, Dagger, Ktor.
+
+Mobile Developer, Koshelek.ru; St. Petersburg, Remote — Aug 2021 - Nov 2021
+Project: koshelek.ru - crypto wallet & P2P, team of 3.
+
+Technologies/Tools: Kotlin Multiplatform, Compose, Coroutines, SQLDelight, Ktor.
+
+Android Developer, Motorsport Network; Ekaterinburg — Jul 2018 - Aug 2021
+Project: Motorsport.tv - client for video service. Application for AndroidTV (also for Amazon FireTV) and mobile. Team of 3.
+
+Technologies/Tools: Kotlin, Leanback, ExoPlayer, Koin, RxJava, Glide, Timber, Retrofit, OkHttp, jUnit, Mockito, Docker, Gitlab CI.
+
+Android Developer, DataKrat; Ekaterinburg, Russia — Sep 2016 - Sep 2018
+Project: BARS B2C - apps for scalable ticketing service, team of 2.
+
+Technologies/Tools: Java, Kotlin, Dagger, RxJava, Realm, Picasso, Timber, Retrofit, OkHttp, jUnit, Mockito, Git.
+
+EDUCATION
+Ural Federal University — Specialist Degree in Energy Industry, 2014
+
+Tbilisi, Georgia
+artik222012@gmail.com
